@@ -9,6 +9,8 @@ import fastClick from 'fastclick'
 import './assets/css/reset.css'
 //解决移动端1px问题
 import './assets/css/border.css'
+//字体图标
+import './assets/css/iconfont.css'
 
 
 Vue.config.productionTip = false
